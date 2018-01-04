@@ -1,23 +1,16 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
+  "username": "churm6044",
+  "name": "JH Chiu",
   "projects": [
-    "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
+    "https://codepen.io/chuchu6044/pen/RLvjWg",
   ],
   "background":[
-    "A graduate student from NTUT Interaction Design Dept",
-    "Front-end",
+    "PHP 2 year",
     "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
   ],
   "interests":[
-    "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
+    "JavaScript",
+    "Blockchain"
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  "github": "http://github.com/churm6044"
 }
